@@ -1,0 +1,18 @@
+---
+:id: 46945489
+:submitters:
+- :name: Rishabh Ranjan
+  :email: rranjan41@gatech.edu
+- :name: Jacob Van Duyn Brechbuhl
+  :email: jbrechbuhl3@gatech.edu
+- :name: Richard Zijie Meng
+  :email: zmeng36@gatech.edu
+- :name: Patrick Michael Taylor III
+  :email: ptaylor@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-01 22:54:34.540201000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-01 15:54:34.540201000 Z
+:status: processed
+:score: 92.0
